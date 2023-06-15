@@ -1,0 +1,27 @@
+.wrapper {
+    margin-top: 20px;
+}
+
+.header {
+    color: var(--primary);
+    font-weight: bold;
+    margin-left: 10px;
+
+    &-icon {
+        margin-right: 20px;
+    }
+}
+
+.table {
+    margin-top: 50px;
+    font-size: 1.4rem !important;
+}
+
+.page_navigation {
+    margin-top: 20px;
+    font-size: 1.4rem !important;
+}
+
+.actions-btn {
+    font-size: 1.2rem;
+}

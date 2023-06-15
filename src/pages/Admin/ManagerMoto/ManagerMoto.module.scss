@@ -1,0 +1,36 @@
+.wrapper {
+    margin-top: 20px;
+}
+
+.header {
+    color: var(--primary);
+    font-weight: bold;
+    margin-left: 10px;
+
+    &-icon {
+        margin-right: 20px;
+    }
+}
+
+.button_showModal {
+    display: flex;
+    justify-content: flex-end;
+    padding: 10px !important;
+    font-size: 1.2rem !important;
+    background-color: var(--primary) !important;
+    margin-top: 30px;
+}
+
+.table {
+    margin-top: 20px;
+    font-size: 1.4rem !important;
+}
+
+.page_navigation {
+    margin-top: 20px;
+    font-size: 1.4rem !important;
+}
+
+.actions-btn {
+    font-size: 1.2rem;
+}
